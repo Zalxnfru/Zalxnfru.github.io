@@ -1,6 +1,10 @@
 # Zalxnfru.github.io
 ## Valorant
-| Syntax | Description |
-| ----------- | ----------- |
 | Agent | Role |
+| ----------- | ----------- |
 | Jett | Duelist |
+| Reyna | Duelist |
+| Yoru | Duelist |
+| Pheonix | Duelist |
+| Raze | Duelist |
+| Neon | Duelist |
