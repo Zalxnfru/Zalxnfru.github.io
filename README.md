@@ -2,5 +2,5 @@
 ## Valorant
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Agent | Role |
+| Jett | Duelist |
