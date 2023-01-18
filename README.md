@@ -9,3 +9,4 @@ Valorant is a free-to-play first-person tactical hero shooter developed and publ
 | Pheonix | Duelist |
 | Raze | Duelist |
 | Neon | Duelist |
+theme: minima
